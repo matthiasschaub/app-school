@@ -1,3 +1,3 @@
 #! /bin/bash
 #
-watch "rsync -zr gen/* zod/base/gen"
+watch "rsync -zr base/* zod/base/"
